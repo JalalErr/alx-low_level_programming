@@ -5,7 +5,7 @@
  * @i: incrimentation to the next alphabet.
  * Return: 0 in success.
  */
-void print_alphabet(void)
+void print_alphabet(int i)
 {
 
 /* Declaration variable section: */
