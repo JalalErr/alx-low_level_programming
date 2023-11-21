@@ -2,8 +2,8 @@
 
 /**
  * main - principale function.
- * @str: array containe the string.
- *Return: value 0.
+ * Description: a program that prints _putchar, followed by a new line
+ * Return: value 0.
  */
 
 int main(void)
