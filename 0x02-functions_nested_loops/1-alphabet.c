@@ -7,11 +7,13 @@
  */
 void print_alphabet(void)
 {
-    /* Declaration variable section: */
-    int i;
-    /* Code execution section: */
-    for (i = 'a'; i <= 'z'; i++)
-    {
-    _putchar(i);
-    }
+
+/* Declaration variable section: */
+int i;
+/* Code execution section: */
+for (i = 'a'; i <= 'z'; i++)
+{
+_putchar(i);
+}
+_putchar('\n');
 }
