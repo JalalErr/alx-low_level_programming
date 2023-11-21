@@ -7,5 +7,6 @@
 /* functions prototypes : */
 int _putchar(char c);
 int _print_putchar(void);
+void print_alphabet(void);
 
 #endif
