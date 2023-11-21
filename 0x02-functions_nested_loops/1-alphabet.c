@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet - Function that print alphabet.
- * @i: incrimentation to the next alphabet.
+ * print_alphabet - Function prototype.
+ * Discription : function print alphabet.
  * Return: 0 in success.
  */
-void print_alphabet(int i)
+void print_alphabet(void)
 {
 
 /* Declaration variable section: */
