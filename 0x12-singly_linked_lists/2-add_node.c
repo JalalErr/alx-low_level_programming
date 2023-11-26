@@ -18,10 +18,9 @@ size_t count = 0;
 new_node = malloc(sizeof(list_t));
 if (new_node == NULL)
 	return (NULL);
-else
-	while (str[count])
-		count++;
 
+while (str[count])
+count++;
 new_node->str = strdup(str);
 new_node->len = count;
 new_node->next = *head;
