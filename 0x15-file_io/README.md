@@ -1,1 +1,1 @@
-file input output readme file 
+redme file for file I/O
