@@ -12,8 +12,8 @@ int main(void)
 
 	for (; i < x; i++)
 	{
-		printf("%d\n", i);
+		printf("%d", i);
 	}
-
+	printf("\n");
 	return (0);
 }
